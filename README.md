@@ -12,10 +12,12 @@
 ### Installation instruction|ENG:::
 >> For script working you need your account token you can get it using [httpcanary](https://trashbox.ru/link/httpcanary-android) when capturing durakonline
 >>> Then to enable script you need install [termux](https://play.google.com/store/apps/details?id=com.termux) or [pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) 
+- `TOKEN-EXAMPLE: $2a$06$KfPOlyRfmhpAJrd0uHeHSO`
 
 ### Installation instruction|RUS:::
 >> Для работы скрипта для начало вам нужно получить токен от вашего аккаунта для его получения вам надо установить [httpcanary](https://trashbox.ru/link/httpcanary-android) и начать сниффить пакеты находясь в дурака
 >>> После этого чтобы запустить скрипт вам надо установить [termux](https://play.google.com/store/apps/details?id=com.termux) или [pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+- `ПРИМЕР ТОКЕНА: $2a$06$KfPOlyRfmhpAJrd0uHeHSO`
 
 #### Termux
 ```shell
