@@ -1,4 +1,4 @@
-import durakonline
+from library import durakonline
 print("""
 Script by deluvsushi
 Github : https://github.com/deluvsushi
