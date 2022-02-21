@@ -1,4 +1,4 @@
-from utils import objects
+from .utils import objects
 from datetime import datetime
 from loguru import logger
 import sys
