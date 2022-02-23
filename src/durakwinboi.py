@@ -46,8 +46,9 @@ def main_process():
 			main_client.ready(); bot_client.ready()
 			main_client._get_data(type="ready_on")
 			bot_client.surrender()
-			bot_client._get_data("game_over")
+			bot_client._get_data(type="game_over")
 			print(f"-- [{i+1}][bot_client]::: gave up!")
 		main_client.friend_delete(friend_id=bot_client.uid)
+		print("-- Done!")
 		
 main_process()
