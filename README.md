@@ -1,4 +1,4 @@
-# DurakWinBoi
+# DVRXKW1NB01
 - Бот для [ДуракаОнлайн](https://play.google.com/store/apps/details?id=com.rstgames.durak) чтобы накручивать количество побед с кредитами
 
 - Bot for [DurakOnline](https://play.google.com/store/apps/details?id=com.rstgames.durak) to increase winnings and credits count
@@ -23,8 +23,7 @@
 ```shell
 pkg install python
 pkg install git
-git clone https://github.com/deluvsushi/DurakWinBoi
-cd DurakWinBoi
-cd src
-python durakwinboi.py
+git clone https://github.com/deluvsushi/DVRXKW1NB01
+cd DVRXKW1NB01/src
+python DVRXKW1NB01.py
 ```
